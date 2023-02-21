@@ -1,0 +1,8 @@
+D:\document-2022-2023\HK2 - DA\LT_WinDow\HinhHoc\HinhHoc\bin\Debug\HinhHoc.exe.config
+D:\document-2022-2023\HK2 - DA\LT_WinDow\HinhHoc\HinhHoc\bin\Debug\HinhHoc.exe
+D:\document-2022-2023\HK2 - DA\LT_WinDow\HinhHoc\HinhHoc\bin\Debug\HinhHoc.pdb
+D:\document-2022-2023\HK2 - DA\LT_WinDow\HinhHoc\HinhHoc\obj\Debug\HinhHoc.csproj.AssemblyReference.cache
+D:\document-2022-2023\HK2 - DA\LT_WinDow\HinhHoc\HinhHoc\obj\Debug\HinhHoc.csproj.SuggestedBindingRedirects.cache
+D:\document-2022-2023\HK2 - DA\LT_WinDow\HinhHoc\HinhHoc\obj\Debug\HinhHoc.csproj.CoreCompileInputs.cache
+D:\document-2022-2023\HK2 - DA\LT_WinDow\HinhHoc\HinhHoc\obj\Debug\HinhHoc.exe
+D:\document-2022-2023\HK2 - DA\LT_WinDow\HinhHoc\HinhHoc\obj\Debug\HinhHoc.pdb

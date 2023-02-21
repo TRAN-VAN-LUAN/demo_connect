@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HinhHoc.HinhHoc">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAABAAAAAAACkIUABpCEAAQA=</HashCode>
+      <FileName>HinhHoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HinhHoc.TuGiac_DacBiet">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAQAAAAABAAEAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TuGiac_DacBiet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HinhHoc.TamGiac">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TamGiac.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HinhHoc.ToaDo">
+    <Position X="13.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAYAA=</HashCode>
+      <FileName>ToaDo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HinhHoc.HinhVuong">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HinhVuong.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HinhHoc.HinhChuNhat">
+    <Position X="2.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HinhChuNhat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HinhHoc.Compare">
+    <Position X="10.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAQAAAAAQAA=</HashCode>
+      <FileName>Compare.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HinhHoc.DuongThang">
+    <Position X="6.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DuongThang.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HinhHoc.Diem">
+    <Position X="8.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HinhHoc.HinhTron">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HinhTron.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HinhHoc.Program" Collapsed="true">
+    <Position X="13.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
